@@ -13,7 +13,7 @@
 
 ## Usage
 
-1. Open Cider.
+1. Open [Cider](https://github.com/ciderapp/Cider).
 2. Click Cider image on top left and select settings.
 3. Under the visual category, select the "Explore GitHub Themes" button.
 4. Select the "Install from GitHub URL" and paste in the url of this repository.
